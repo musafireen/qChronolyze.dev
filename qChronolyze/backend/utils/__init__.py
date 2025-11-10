@@ -11,4 +11,9 @@ from .confFcheck import confFcheck
 # from .submConf import submConf
 # from .intOrNot import intOrNot
 from .qLDemodder import qLDemodder
+from .byPos import byPos
+from .retStrObj import retStrObj
+from .qryObj import qryObj
+from .rtLemsQry import rtLemsQry
+from .rtLemsQryL import rtLemsQryL
 # from .get_path import get_usr_conf_dir, get_usr_sorter_path, get_usr_surord_path, get_usr_posser_path
